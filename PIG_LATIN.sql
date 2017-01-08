@@ -1,3 +1,7 @@
+-- https://www.ibm.com/developerworks/library/l-apachepigdataquery/
+-- http://chimera.labs.oreilly.com/books/1234000001811/ch05.html#case_sensitivity
+-- https://www.tutorialspoint.com/apache_pig/apache_pig_reading_data.htm
+
 field/ atom - like a cell
 
 tuple - like a row
